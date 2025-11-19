@@ -29,15 +29,18 @@ RegisterNumber: 25017715
 ```
 /*
 Program to find the LU Decomposition of a matrix.
-Developed by: 
-RegisterNumber: 
+Developed by: KANIMOZHI K N
+RegisterNumber: 25017715
 */
 ```
 <img width="833" height="646" alt="Screenshot 2025-11-19 140900" src="https://github.com/user-attachments/assets/339b8bda-3b4b-48b7-bf7a-9ac8c6edb126" />
 
 ## Output:
-![lu decomposition]()
+(i) To find the L and U matrix
+<img width="1227" height="578" alt="Screenshot 2025-11-19 140848" src="https://github.com/user-attachments/assets/63e0f43d-aab8-4c47-8e7e-93dc28b8925b" />
 
+(ii) To find the LU Decomposition of a matrix
+<img width="909" height="317" alt="Screenshot 2025-11-19 140917" src="https://github.com/user-attachments/assets/58bd353f-4ce7-414d-b1a1-073b370d9788" />
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
